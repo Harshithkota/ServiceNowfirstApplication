@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="studentinformation" max_length="40" name="x_594689_sru_studentinformation" type="collection">
+        <element label="address" max_length="40" name="address" type="string"/>
+        <element label="contact" max_length="40" name="contact" type="phone_number_e164"/>
+        <element label="Date Of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element choice="1" label="department" max_length="40" name="department" type="choice">
+            <choice/>
+        </element>
+        <element label="emailid" max_length="40" name="emailid" type="string"/>
+        <element label="name of the student" max_length="40" name="name_of_the_student" type="string"/>
+        <element label="rollno" max_length="40" name="rollno" type="string"/>
+    </element>
+</database>

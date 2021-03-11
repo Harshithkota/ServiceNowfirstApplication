@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name_of_the_student" label="name of the student" language="en" table="x_594689_sru_studentinformation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name_of_the_student</element>
+            <help/>
+            <hint/>
+            <label>name of the student</label>
+            <language>en</language>
+            <name>x_594689_sru_studentinformation</name>
+            <plural>name of the students</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-11 08:34:42</sys_created_on>
+            <sys_id>5533e5022f762010df4d309cf699b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>name of the student</sys_name>
+            <sys_package display_value="SRU" source="x_594689_sru">cd21a58e2f362010df4d309cf699b602</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRU">cd21a58e2f362010df4d309cf699b602</sys_scope>
+            <sys_update_name>sys_documentation_x_594689_sru_studentinformation_name_of_the_student_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-11 08:34:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
